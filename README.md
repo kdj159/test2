@@ -1,4 +1,4 @@
-8361948667:AAHj83FJXnt2f305iPQsVcSCszGka8dIxhU
+
 Anthropic Claude API: MCP를 처음 제안한 곳으로, MCP 생태계 지원이 가장 강력하며 복잡한 문맥 파악에 유리합니다.
 OpenAI GPT-4o/5 API: OpenAI MCP 공식 문서를 통해 ChatGPT 앱 및 API 연동 가이드를 제공합니다.
 Google Gemini API: 구글 워크스페이스 등 구글 서비스 연동이 필요한 경우 유리하며, 역시 MCP 표준을 지원합니다.
